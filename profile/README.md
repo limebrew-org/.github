@@ -1,3 +1,11 @@
+<div align="center">
+
+  ![Visitor Count](https://komarev.com/ghpvc/?username=limebrew-org)
+  [![Slack](https://img.shields.io/badge/limebrewofficial-4A154B.svg?logo=Slack&logoColor=white)](https://limebrewofficial.slack.com)
+  [![Docker Hub](https://img.shields.io/badge/limebrewofficial-2496ED.svg?logo=Docker&logoColor=white)](https://hub.docker.com/u/limebrewofficial)
+  
+</div>
+
 ## Welcome to Limebrew 👋
 We are a SaaS based organization that explores and contributes to building tech for the future.
 Feel free to explore and contribute to our public repositories 😊
