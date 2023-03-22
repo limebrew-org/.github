@@ -13,10 +13,14 @@ Our growing tech stack includes:
 
 **`💽 Database`**: MongoDB, Firestore, Postgres, Cassandra, DynamoDB
 
-**`🏗️ Build Tools`**: Docker, Maven, Gradle
+**`🛠️ Build Tools`**: Docker, Maven, Gradle
 
 **`⏳ CI/CD`**: Github Actions, Artifact Registry, Docker Hub, Jenkins
 
 **`🚀 Deploy`**: Docker, Kubernetes, Serverless (Cloud Run), Managed k8s (GKE, EKS)
 
 **`📚 Documentation`**: Swagger, Notion docs
+
+**`🏗️ Infrastructure tools`**: Terraform, Ansible, Chef, Puppet
+
+**`☁️ Cloud Providers`: Github, Google Cloud, AWS, Digital-Ocean
