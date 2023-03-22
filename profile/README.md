@@ -23,4 +23,4 @@ Our growing tech stack includes:
 
 **`🏗️ Infrastructure tools`**: Terraform, Ansible, Chef, Puppet
 
-**`☁️ Cloud Providers`: Github, Google Cloud, AWS, Digital-Ocean
+**`Cloud Providers`**: Github, Google Cloud, AWS, Digital-Ocean
