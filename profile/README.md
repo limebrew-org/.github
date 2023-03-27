@@ -4,7 +4,7 @@
   [![Slack](https://img.shields.io/badge/limebrewofficial-4A154B.svg?logo=Slack&logoColor=white)](https://limebrewofficial.slack.com)
   [![Docker Hub](https://img.shields.io/badge/limebrewofficial-2496ED.svg?logo=Docker&logoColor=white)](https://hub.docker.com/u/limebrewofficial)
   
-  ![limebrew](logo.png)
+  ![limebrew](https://github.com/limebrew-org/.github/blob/main/profile/logo.png)
 </div>
 
 # Welcome to Limebrew 👋
